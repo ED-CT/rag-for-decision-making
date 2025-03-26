@@ -31,6 +31,7 @@ A **vectorial database** is used in RAG systems to store and manage the vector e
 **Gradio** is a tool that can be used to build interactive interfaces for AI applications, including those based on RAG systems. While not specifically mentioned in the context of RAG, tools like Gradio can be used to create user-friendly interfaces for querying and visualizing results from RAG systems. However, for RAG implementations, **Streamlit** is more commonly used to create seamless user interfaces for document uploads, querying, and result visualization[1].
 
 Citations:
+
 [1] https://dev.to/ajmal_hasan/genai-building-rag-systems-with-langchain-4dbp
 [2] https://www.ibm.com/think/topics/langchain
 [3] https://learn.microsoft.com/en-us/azure/databricks/generative-ai/tutorials/ai-cookbook/quality-data-pipeline-rag
